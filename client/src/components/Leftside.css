@@ -1,0 +1,22 @@
+.leftNav{
+    position: fixed;
+    padding: 10px;
+    max-height: 100%;
+    width: 30%;
+   margin-left: 85px;
+   background-color: white;
+   overflow: hidden;
+   overflow-y: scroll;
+   
+}
+
+
+
+.line{
+    position: fixed;
+    width: 35%;
+    border-bottom: 1px solid lightgray;
+    
+    margin-left: 25px;
+}
+

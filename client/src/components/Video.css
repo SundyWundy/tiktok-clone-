@@ -1,0 +1,40 @@
+.video{
+    border: 1px solid white;
+    background-color: white;
+    width: 700px;
+    height: 100%;
+    position: relative;
+    margin-left: 40%;
+    scroll-snap-align: start;
+}
+
+.videoPlayer{
+    width: 40%;
+    height: 40%;
+    object-fit: fill;
+}
+
+.menu{
+    position: absolute;
+    bottom: 25px;
+    right: 50%;
+}
+
+.followbtn{
+    position: absolute;
+    right: 50px;
+    top: 10%;
+}
+
+.btnshape{
+    border-radius: 25px;
+    height: 40px;
+    width: 40px;
+    cursor: pointer;
+}
+
+.Line{
+    position: relative;
+    top: 10px;
+    color: lightgray;
+}
